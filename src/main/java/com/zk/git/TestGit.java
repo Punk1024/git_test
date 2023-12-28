@@ -9,5 +9,7 @@ public class TestGit {
         System.out.println("-----------------------");
         System.out.println("第四次修改");
         System.out.println("第五次修改");
+        System.out.println("+++++++++++++++++");
+        System.out.println("第六次修改+NewFile");
     }
 }
